@@ -25,12 +25,12 @@ file.close
 
 file = File.open("word_frequencies_#{debate_text_file.sub(/\..*$/, '')}.md", "w+")
 file.puts "### TRUMP"
-file.puts "word   |  frequency"
+file.puts "frequency   |  word"
 file.puts "--- | ---"
 file.puts trump.invert.sort.last(20).map { |(x,y)| "#{x}  | #{y}" }
 file.puts "\n\n\n"
 file.puts "### CLINTON"
-file.puts "word   |  frequency"
+file.puts "frequency   |  word"
 file.puts "--- | ---"
 file.puts clinton.invert.sort.last(20).map { |(x,y)| "#{x}  | #{y}" }
 file.close

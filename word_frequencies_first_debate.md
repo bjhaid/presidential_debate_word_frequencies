@@ -1,5 +1,5 @@
 ### TRUMP
-word   |  frequency
+frequency   |  word
 --- | ---
 54  | are
 58  | because
@@ -25,7 +25,7 @@ word   |  frequency
 
 
 ### CLINTON
-word   |  frequency
+frequency   |  word
 --- | ---
 36  | was
 37  | what
