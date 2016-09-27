@@ -26,3 +26,8 @@ CLINTON: ...
 TRUMP: ...
 
 ```
+
+
+Credits of the first transcripts:
+
+https://www.washingtonpost.com/news/the-fix/wp/2016/09/26/the-first-trump-clinton-presidential-debate-transcript-annotated/
